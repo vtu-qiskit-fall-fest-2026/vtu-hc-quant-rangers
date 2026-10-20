@@ -307,6 +307,6 @@ Released under the [MIT License](LICENSE). See `LICENSE` for details.
 **Quant Rangers** · Team ID `VTU-QFF-HC-0066` · Tier `Online`
 · Built with ⚛️ Qiskit for the VTU-QFF Hackathon
 
-[⬆ Back to Top](#Quant Rangers)
+[⬆ Back to Top](#quant-rangers)
 
 </div>
