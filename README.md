@@ -306,15 +306,15 @@ git pull --rebase       # update your branch on top of main
 
 ## ✅ Submission Checklist
 
-- [ ] Team repository visibility and submission settings confirmed
-- [ ] All team members added with the required repository access and invitations accepted
+- [x] Team repository visibility and submission settings confirmed
+- [x] All team members added with the required repository access and invitations accepted
 - [x] `README.md` updated with project details, problem statement, and solution
 - [x] Team members listed under [Team Members](#-team-members-github-ids)
 - [x] Backend and frontend dependency manifests and lockfiles committed
-- [ ] Latest project changes pushed to the hackathon repository and its default branch builds successfully
+- [x] Latest project changes pushed to the hackathon repository and its default branch builds successfully
 - [x] Generated runtime data, secrets, and local database files excluded from source control
-- [ ] README includes a reviewed project screenshot or demo video link
-- [ ] Short project summary submitted on the hackathon portal
+- [x] README includes a reviewed project screenshot or demo video link
+- [x] Short project summary submitted on the hackathon portal
 
 ---
 
